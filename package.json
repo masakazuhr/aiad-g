@@ -22,25 +22,14 @@
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
-<<<<<<< HEAD
-    "@types/node": "20.16.5",
-    "@types/react": "18.3.8",
-=======
     "@types/node": "^20",
     "@types/react": "^18",
->>>>>>> fc00809896676441e6c2ee5c68574d0eb9cd859a
     "@types/react-dom": "^18",
     "autoprefixer": "^10.4.20",
     "eslint": "^8",
     "eslint-config-next": "14.2.8",
     "postcss": "^8.4.45",
     "tailwindcss": "^3.4.11",
-<<<<<<< HEAD
-    "typescript": "5.6.2"
-  }
-}
-=======
     "typescript": "^5"
   }
 }
->>>>>>> fc00809896676441e6c2ee5c68574d0eb9cd859a
